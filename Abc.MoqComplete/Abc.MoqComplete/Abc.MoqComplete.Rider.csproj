@@ -1,12 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-	<Company>ABC arbitrage Asset Management</Company>
-	<Copyright>Copyright © ABC arbitrage Asset Management 2019</Copyright>
-	<IsPackable>True</IsPackable>
+    <Company>ABC arbitrage Asset Management</Company>
+    <Copyright>Copyright © ABC arbitrage Asset Management 2019</Copyright>
+    <IsPackable>True</IsPackable>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <RootNamespace>Abc.MoqComplete</RootNamespace>
- </PropertyGroup>
+  </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="JetBrains.Rider.SDK" Version="$(SdkVersion)" />

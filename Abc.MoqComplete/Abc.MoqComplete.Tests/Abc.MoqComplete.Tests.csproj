@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
- 	<Company>ABC arbitrage Asset Management</Company>
-	<Copyright>Copyright © ABC arbitrage Asset Management 2021</Copyright>
-	<IsPackable>False</IsPackable>
- </PropertyGroup>
+    <Company>ABC arbitrage Asset Management</Company>
+    <Copyright>Copyright © ABC arbitrage Asset Management 2021</Copyright>
+    <IsPackable>False</IsPackable>
+  </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Abc.MoqComplete\Abc.MoqComplete.csproj" />
