@@ -18,7 +18,7 @@
   <Import Project="Plugin.props" />
 
   <PropertyGroup>
-    <WaveVersion>242.0.0.0</WaveVersion>
+    <WaveVersion>261.0.0.0</WaveVersion>
   </PropertyGroup>
 
   <PropertyGroup>
