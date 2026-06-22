@@ -3,7 +3,7 @@
   <idea-version since-build="261.22158.335" />
   <id>Abc.MoqComplete.Rider</id>
   <name>MoqComplete</name>
-  <version>2024.2.0.1</version>
+  <version>2026.1.3.0</version>
   <vendor url="https://github.com/Abc-Arbitrage/Abc.MoqComplete">abc-arbitrage</vendor>
   <description><![CDATA[
 <p>Code completion for Moq: Provide completion for It.IsAny, Callback, suggest mock in constructor</p>
