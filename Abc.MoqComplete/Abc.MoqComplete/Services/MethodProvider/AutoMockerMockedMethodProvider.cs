@@ -1,9 +1,10 @@
 ﻿using JetBrains.ProjectModel;
+using JetBrains.Application.Parts;
 using JetBrains.ReSharper.Psi.CSharp.Tree;
 
 namespace Abc.MoqComplete.Services.MethodProvider
 {
-	[SolutionComponent]
+	[SolutionComponent(Instantiation.DemandAnyThreadSafe)]
 	public class AutoMockerMockedMethodProvider : BaseMethodProvider, IAutoMockerMockedMethodProvider
 	{
 		private readonly IMoqMethodIdentifier _methodIdentifier;
